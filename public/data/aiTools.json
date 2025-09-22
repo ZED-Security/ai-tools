@@ -1,0 +1,27 @@
+{
+  "name": "OSINT Framework",
+  "children": [
+    {
+      "name": "Username",
+      "children": [
+        {
+          "name": "Social Networks",
+          "url": "https://example.com/social"
+        },
+        {
+          "name": "Email Address",
+          "url": "https://example.com/email"
+        }
+      ]
+    },
+    {
+      "name": "IP Address",
+      "children": [
+        {
+          "name": "Geolocation Tools",
+          "url": "https://example.com/ip-geo"
+        }
+      ]
+    }
+  ]
+}
