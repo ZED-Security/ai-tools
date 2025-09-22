@@ -1,12 +1,9 @@
 {
   "name": "ai-tools",
-  "homepage": "https://ZED-Security.github.io/ai-tools",
   "private": true,
   "version": "7.1.4",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
